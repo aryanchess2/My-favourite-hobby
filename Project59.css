@@ -1,0 +1,50 @@
+body{
+ background-color:aqua;
+ text-align:center;
+ font-family: langar;
+}
+img{
+ margin-left: 185px;
+ border-radius:60px;
+}
+h3{
+  color:white;
+}
+.list{
+    color:green;
+    float: right;
+}
+.links:hover{
+    background-color: coral;
+    display: inline;
+}
+
+h4{
+    font-size: 35px;
+    color: blue;
+}
+h1{
+    font-size: 35px;
+    color:blue;
+}
+p{
+ font-size: 35px;
+ color: darkred;
+}
+h3{
+    font-size: 18px;
+}
+h5{
+    font-size: 18px;
+    color: white;
+}
+h6{
+    font-size: 35px;
+    color:blue;
+}
+div{
+    color: darkviolet;
+}
+html{
+    scroll-behavior: smooth;
+}
